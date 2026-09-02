@@ -8,7 +8,7 @@
     "docs_url": "https://pyod.readthedocs.io",
     "paper_url": "https://arxiv.org/abs/2412.12154",
     "demo_url": "",
-    "stars": 9976,
+    "stars": 9978,
     "tags": [
       "Anomaly Detection",
       "Outlier Detection",
@@ -46,7 +46,7 @@
     "docs_url": "",
     "paper_url": "",
     "demo_url": "",
-    "stars": 122,
+    "stars": 125,
     "tags": [
       "Agent Auditability",
       "Agent Reliability",
@@ -83,7 +83,7 @@
     "docs_url": "https://trustllmbenchmark.github.io/TrustLLM-Website/",
     "paper_url": "https://openreview.net/forum?id=bWUU0LwwMp",
     "demo_url": "",
-    "stars": 631,
+    "stars": 632,
     "tags": [
       "Trustworthy AI",
       "LLM Evaluation",
@@ -139,7 +139,7 @@
     "docs_url": "",
     "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/da0ddd47c18ae3dd2888ff2ea4b6ccf7-Abstract-Datasets_and_Benchmarks.html",
     "demo_url": "",
-    "stars": 1021,
+    "stars": 1023,
     "tags": [
       "Anomaly Detection",
       "Benchmark",
@@ -157,7 +157,7 @@
     "docs_url": "",
     "paper_url": "",
     "demo_url": "",
-    "stars": 9369,
+    "stars": 9375,
     "tags": [
       "Awesome List",
       "Anomaly Detection",
