@@ -8,7 +8,7 @@
     "docs_url": "https://pyod.readthedocs.io",
     "paper_url": "https://arxiv.org/abs/2412.12154",
     "demo_url": "",
-    "stars": 10007,
+    "stars": 10008,
     "tags": [
       "Anomaly Detection",
       "Outlier Detection",
@@ -16,7 +16,7 @@
       "Machine Learning",
       "PyTorch"
     ],
-    "last_updated_at": "2026-09-16T07:52:43Z"
+    "last_updated_at": "2026-09-17T02:20:00Z"
   },
   {
     "name": "auditable",
@@ -27,7 +27,7 @@
     "docs_url": "https://auditable-ai.readthedocs.io/",
     "paper_url": "https://arxiv.org/abs/2606.22741",
     "demo_url": "https://pypi.org/project/auditable/",
-    "stars": 23,
+    "stars": 25,
     "tags": [
       "Agent Auditability",
       "Decision Replay",
@@ -46,7 +46,7 @@
     "docs_url": "",
     "paper_url": "",
     "demo_url": "",
-    "stars": 145,
+    "stars": 146,
     "tags": [
       "Agent Auditability",
       "Agent Reliability",
@@ -54,7 +54,7 @@
       "Resources",
       "Benchmarks"
     ],
-    "last_updated_at": "2026-09-11T22:24:02Z"
+    "last_updated_at": "2026-09-17T00:54:50Z"
   },
   {
     "name": "AD-AGENT",
@@ -157,7 +157,7 @@
     "docs_url": "",
     "paper_url": "",
     "demo_url": "",
-    "stars": 9385,
+    "stars": 9388,
     "tags": [
       "Awesome List",
       "Anomaly Detection",
@@ -248,7 +248,7 @@
     "docs_url": "https://tdcommons.ai",
     "paper_url": "https://proceedings.neurips.cc/paper/2021/hash/6a8d3b0f5987e0f6d3d2f5f65f02e3cc-Abstract.html",
     "demo_url": "",
-    "stars": 1283,
+    "stars": 1284,
     "tags": [
       "Therapeutics",
       "Benchmark",
@@ -322,7 +322,7 @@
     "docs_url": "https://viterbi-web.usc.edu/~yzhao010/aegis.html",
     "paper_url": "https://arxiv.org/abs/2603.12621",
     "demo_url": "https://github.com/Justin0504/Aegis/blob/main/docs/images/readme_demo1.gif",
-    "stars": 358,
+    "stars": 369,
     "tags": [
       "AI Agent Security",
       "Policy Enforcement",
@@ -359,7 +359,7 @@
     "docs_url": "https://anywhere-agents.readthedocs.io",
     "paper_url": "",
     "demo_url": "",
-    "stars": 245,
+    "stars": 244,
     "tags": [
       "Claude Code",
       "Codex",
@@ -368,7 +368,7 @@
       "Configuration",
       "MCP"
     ],
-    "last_updated_at": "2026-09-16T04:16:52Z"
+    "last_updated_at": "2026-09-18T05:38:57Z"
   },
   {
     "name": "agent-style",
@@ -379,7 +379,7 @@
     "docs_url": "https://viterbi-web.usc.edu/~yzhao010/agent-style.html",
     "paper_url": "",
     "demo_url": "https://pypi.org/project/agent-style/",
-    "stars": 683,
+    "stars": 689,
     "tags": [
       "AI Agents",
       "Agent Configuration",
