@@ -8,7 +8,7 @@
     "docs_url": "https://pyod.readthedocs.io",
     "paper_url": "https://arxiv.org/abs/2412.12154",
     "demo_url": "",
-    "stars": 10025,
+    "stars": 10026,
     "tags": [
       "Anomaly Detection",
       "Outlier Detection",
@@ -16,7 +16,7 @@
       "Machine Learning",
       "PyTorch"
     ],
-    "last_updated_at": "2026-09-17T02:20:00Z"
+    "last_updated_at": "2026-10-04T20:23:37Z"
   },
   {
     "name": "auditable",
@@ -90,7 +90,7 @@
       "Benchmark",
       "Toolkit"
     ],
-    "last_updated_at": "2025-06-24T18:33:48Z"
+    "last_updated_at": "2026-10-04T23:28:06Z"
   },
   {
     "name": "TrustEval-toolkit",
@@ -248,7 +248,7 @@
     "docs_url": "https://tdcommons.ai",
     "paper_url": "https://proceedings.neurips.cc/paper/2021/hash/6a8d3b0f5987e0f6d3d2f5f65f02e3cc-Abstract.html",
     "demo_url": "",
-    "stars": 1291,
+    "stars": 1292,
     "tags": [
       "Therapeutics",
       "Benchmark",
@@ -322,7 +322,7 @@
     "docs_url": "https://viterbi-web.usc.edu/~yzhao010/aegis.html",
     "paper_url": "https://arxiv.org/abs/2603.12621",
     "demo_url": "https://github.com/Justin0504/Aegis/blob/main/docs/images/readme_demo1.gif",
-    "stars": 467,
+    "stars": 486,
     "tags": [
       "AI Agent Security",
       "Policy Enforcement",
@@ -341,7 +341,7 @@
     "docs_url": "https://pycombo.readthedocs.io",
     "paper_url": "https://aaai.org/papers/13648-combining-machine-learning-models-using-combo-library/",
     "demo_url": "",
-    "stars": 660,
+    "stars": 659,
     "tags": [
       "Ensemble Learning",
       "Model Combination",
@@ -368,7 +368,7 @@
       "Configuration",
       "MCP"
     ],
-    "last_updated_at": "2026-10-01T03:06:43Z"
+    "last_updated_at": "2026-10-03T17:50:13Z"
   },
   {
     "name": "agent-style",
@@ -379,7 +379,7 @@
     "docs_url": "https://viterbi-web.usc.edu/~yzhao010/agent-style.html",
     "paper_url": "",
     "demo_url": "https://pypi.org/project/agent-style/",
-    "stars": 702,
+    "stars": 705,
     "tags": [
       "AI Agents",
       "Agent Configuration",
