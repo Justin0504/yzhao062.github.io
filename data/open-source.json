@@ -8,7 +8,7 @@
     "docs_url": "https://pyod.readthedocs.io",
     "paper_url": "https://arxiv.org/abs/2412.12154",
     "demo_url": "",
-    "stars": 10026,
+    "stars": 10027,
     "tags": [
       "Anomaly Detection",
       "Outlier Detection",
@@ -157,7 +157,7 @@
     "docs_url": "",
     "paper_url": "",
     "demo_url": "",
-    "stars": 9406,
+    "stars": 9408,
     "tags": [
       "Awesome List",
       "Anomaly Detection",
@@ -212,7 +212,7 @@
     "docs_url": "https://docs.pygod.org",
     "paper_url": "http://jmlr.org/papers/v25/23-0963.html",
     "demo_url": "",
-    "stars": 1498,
+    "stars": 1499,
     "tags": [
       "Graph Anomaly Detection",
       "PyTorch Geometric",
@@ -322,7 +322,7 @@
     "docs_url": "https://viterbi-web.usc.edu/~yzhao010/aegis.html",
     "paper_url": "https://arxiv.org/abs/2603.12621",
     "demo_url": "https://github.com/Justin0504/Aegis/blob/main/docs/images/readme_demo1.gif",
-    "stars": 486,
+    "stars": 500,
     "tags": [
       "AI Agent Security",
       "Policy Enforcement",
@@ -341,7 +341,7 @@
     "docs_url": "https://pycombo.readthedocs.io",
     "paper_url": "https://aaai.org/papers/13648-combining-machine-learning-models-using-combo-library/",
     "demo_url": "",
-    "stars": 659,
+    "stars": 660,
     "tags": [
       "Ensemble Learning",
       "Model Combination",
@@ -359,7 +359,7 @@
     "docs_url": "https://anywhere-agents.readthedocs.io",
     "paper_url": "",
     "demo_url": "",
-    "stars": 248,
+    "stars": 249,
     "tags": [
       "Claude Code",
       "Codex",
@@ -368,7 +368,7 @@
       "Configuration",
       "MCP"
     ],
-    "last_updated_at": "2026-10-03T17:50:13Z"
+    "last_updated_at": "2026-10-07T03:00:32Z"
   },
   {
     "name": "agent-style",
@@ -379,7 +379,7 @@
     "docs_url": "https://viterbi-web.usc.edu/~yzhao010/agent-style.html",
     "paper_url": "",
     "demo_url": "https://pypi.org/project/agent-style/",
-    "stars": 705,
+    "stars": 706,
     "tags": [
       "AI Agents",
       "Agent Configuration",
@@ -388,6 +388,6 @@
       "Claude Code",
       "Codex"
     ],
-    "last_updated_at": "2026-09-27T19:59:49Z"
+    "last_updated_at": "2026-10-07T02:56:42Z"
   }
 ]
